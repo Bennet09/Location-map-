@@ -2,7 +2,7 @@ Movement Tracker Application
 
 Overview
 
-The Movement Tracker Application is a mobile app developed using Kotlin and Android Studio. It allows users to track their movements in real time, providing insights into their routes, distances traveled, and movement patterns. The app uses GPS and location services to log user activity and displays data visually on an interactive map.
+The Movement Tracker Application is a mobile app developed using Kotlin and Android Studio. It allows users to track their movements in real time, providing insights into their routes, distances traveled, and movement patterns. The app utilizes GPS and location services to log user activity and displays data visually on an interactive map.
 
 Features
 
@@ -34,7 +34,7 @@ Prerequisites
 
 Install Android Studio.
 
-Install a JDK (Java Development Kit).
+Install a Java Development Kit (JDK).
 
 Enable developer options and USB debugging on your Android device.
 
